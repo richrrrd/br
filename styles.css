@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: linear-gradient(to bottom right ,#ff7241, #ff4a1f);
+  background: linear-gradient(to bottom right ,##22c1c3, ##fdbb2d);
 }
 
 .background {
@@ -18,7 +18,7 @@ body {
 .content {
         width: 200px;
         height: 200px;
-        background-color: #FFA500;
+        /*background-color: #FFA500;
         position: absolute; /*Can also be `fixed`*/
         left: 0;
         right: 0;
