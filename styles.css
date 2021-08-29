@@ -18,7 +18,7 @@ body {
 
 /* Smartphones (portrait and landscape) ----------- */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 3000px) {
 
 	.content {
 	padding:10%;
