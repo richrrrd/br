@@ -7,7 +7,7 @@ body {
   background: linear-gradient(to bottom right ,#ff7241, #ff4a1f);
 }
 
-.exactCenter {
+.floatCenter {
   width:200px;
   height:200px;
   position: fixed;
