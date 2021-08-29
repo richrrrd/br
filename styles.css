@@ -38,7 +38,7 @@ body {
 }
 
 
-.innerouter {
+.outer {
         width: 200px;
         height: 200px;
         /*background-color: #FFA500;*/
@@ -57,7 +57,7 @@ body {
   border: 1px solid #FFA500;
 }
 
-.outer {
+.inner {
         width: 200px;
         height: 200px;
         /*background-color: #FFA500;*/
