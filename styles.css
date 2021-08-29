@@ -17,7 +17,7 @@ body {
   margin-top: -100px;
   margin-left: -100px;
   background-image: url("../9FB0F5E6-E05B-4E05-AA0B-47209E11FF9C.png");
-background-size:cover;
+background-size:contain;
 background-position:center;
 background-repeat:no-repeat;
 }
