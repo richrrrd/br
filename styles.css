@@ -30,7 +30,7 @@ body {
         max-height: 100%;
         overflow: auto;
   border: 5px solid #FFA500;
-  background-image: url("../9FB0F5E6-E05B-4E05-AA0B-47209E11FF9C.png");
+  background-image: url("../9FB0F5E6-E05B-4E05-AA0B-47209E11FF9C.png") no-repeat left center;
   background-size: contain;
   background-repeat: no-repeat;
 }
