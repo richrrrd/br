@@ -17,16 +17,19 @@ body {
 
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen 
-and (min-device-width : 120px) 
-and (max-device-width : 480px) {
-.content {
+
+@media only screen and (max-width: 480px) {
+
+	.content {
 	padding:10%;
 	}
 .outer {
 	padding:10%;
+	border: 1px solid red;
 	}
+	
 }
+
 /* Smartphones (portrait and landscape) ----------- */
 
 
