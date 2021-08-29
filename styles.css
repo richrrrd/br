@@ -18,7 +18,7 @@ body {
 .content {
         width: 200px;
         height: 200px;
-        /*background-color: #FFA500;
+        /*background-color: #FFA500;*/
         position: absolute; /*Can also be `fixed`*/
         left: 0;
         right: 0;
