@@ -57,3 +57,13 @@ body {
 	/* border-image: linear-gradient(to top left, #ff9966, #ff5e62) 1; */
         border: 1px solid #FFA500;
 }
+
+.footer {
+  position: absolute;
+  right:1%;
+  bottom:0px;
+  width: 200px;
+  text-align: right;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-size: 1.3em;
+}
