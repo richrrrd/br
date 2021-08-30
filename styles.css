@@ -40,7 +40,7 @@ body {
       font-family: 'Overpass', sans-serif;  
       font-size: 4vw;
       letter-spacing: -6px;
-      vertical-align: top;
+      top:-5px;
     }
     .div3
     {
