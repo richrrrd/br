@@ -62,8 +62,8 @@ body {
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */top: 50%;
       left: 50%;
-      margin-top: -150px;
-      margin-left: -150px;
+      margin-top: -165px;
+      margin-left: -165px;
       letter-spacing: -6px;
       font-size: 4vw;
     }
