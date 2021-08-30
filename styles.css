@@ -14,7 +14,7 @@ body {
       position: fixed;
       border: 10px solid rgb(255, 255, 255);
       border: 10px solid rgba(255, 255, 255, .15);top: 50%;
-      left: 47%;
+      left: 48%;
       margin-top: -100px;
       margin-left: -100px;
     }
@@ -39,7 +39,7 @@ body {
       margin: 0 auto;
       text-align: center;
       font-family: 'Overpass', sans-serif;  
-      font-size: 6vw;
+      font-size: 8vw;
       position:relative;
       top:-25px;
     }
@@ -61,7 +61,7 @@ body {
     border: 15px solid rgba(255, 255, 255, .15);
     -webkit-background-clip: padding-box; /* for Safari */
     background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */top: 50%;
-      left: 50%;
+      left: 48%;
       margin-top: -165px;
       margin-left: -165px;
       letter-spacing: -6px;
@@ -76,7 +76,7 @@ body {
       position: fixed;
             border: 20px solid rgb(255, 255, 255);
     border: 20px solid rgba(255, 255, 255, .15);top: 50%;
-      left: 50%;
+      left: 48%;
       margin-top: -200px;
       margin-left: -200px;
       letter-spacing: -6px;
