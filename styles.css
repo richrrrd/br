@@ -14,9 +14,9 @@ body {
       position: fixed;
       border: 10px solid rgb(255, 255, 255);
       border: 10px solid rgba(255, 255, 255, .15);top: 50%;
-      left: 50%;
+      left: 45%;
       margin-top: -100px;
-      margin-left: -120px;
+      margin-left: -100px;
     }
 
 .div1
