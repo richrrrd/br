@@ -38,7 +38,8 @@ body {
       margin: 0 auto;
       text-align: center;
       font-family: 'Overpass', sans-serif;  
-      font-size: 5vw;
+      font-size: 3vw;
+      letter-spacing: -6px;
     }
     .div3
     {
