@@ -52,7 +52,7 @@ body {
     }
 
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1000px) {
   .exactCenter {
       width:300px;
       height:300px;
@@ -69,7 +69,7 @@ body {
     }
 }
 
-@media screen and (min-width 1500px) and (max-width 6000px){
+@media screen and (min-width 1300px) and (max-width 6000px){
   .exactCenter {
       width:400px;
       height:400px;
