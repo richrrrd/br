@@ -14,11 +14,10 @@ body {
       position: fixed;
       border: 20px solid rgb(255, 255, 255);
       border: 20px solid rgba(255, 255, 255, .15);top: 50%;
-      left: 48%;
+      left: 50%;
       margin-top: -200px;
       margin-left: -200px;
       letter-spacing: -6px;
-      font-size: 4vw;
     }
 
 .div1
@@ -88,7 +87,6 @@ body {
       margin-top: -200px;
       margin-left: -200px;
       letter-spacing: -6px;
-      font-size: 4vw;
     }
       
       .div2 {
