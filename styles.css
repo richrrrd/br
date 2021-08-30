@@ -23,7 +23,7 @@ body {
     {
       width: 100%;
       height:70%;
-      background-color:#A52A2A ;
+      /* background-color:#A52A2A; */
       margin: 0 auto;
       background-image: url("../9FB0F5E6-E05B-4E05-AA0B-47209E11FF9C.png");
       background-size: contain;
@@ -34,8 +34,11 @@ body {
     {
       width: 100%;
       height:30%;
-      background-color:#FFA500 ;
+      /* background-color:#FFA500; */
       margin: 0 auto;
+      text-align: right;
+      font-family: 'Fira Sans Condensed', sans-serif;
+      font-size: 1.5em;
     }
     .div3
     {
