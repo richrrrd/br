@@ -9,14 +9,16 @@ body {
 }
 
 .exactCenter {
-      width:200px;
-      height:200px;
+      width:400px;
+      height:400px;
       position: fixed;
-      border: 10px solid rgb(255, 255, 255);
-      border: 10px solid rgba(255, 255, 255, .15);top: 50%;
+      border: 20px solid rgb(255, 255, 255);
+      border: 20px solid rgba(255, 255, 255, .15);top: 50%;
       left: 48%;
-      margin-top: -100px;
-      margin-left: -100px;
+      margin-top: -200px;
+      margin-left: -200px;
+      letter-spacing: -6px;
+      font-size: 4vw;
     }
 
 .div1
@@ -69,17 +71,15 @@ body {
     }
 }
 
-@media screen and (min-width 1300px) and (max-width 6000px){
+@media screen and (max-width 900px){
   .exactCenter {
-      width:400px;
-      height:400px;
+      width:200px;
+      height:200px;
       position: fixed;
-            border: 20px solid rgb(255, 255, 255);
-    border: 20px solid rgba(255, 255, 255, .15);top: 50%;
+      border: 10px solid rgb(255, 255, 255);
+      border: 10px solid rgba(255, 255, 255, .15);top: 50%;
       left: 48%;
-      margin-top: -200px;
-      margin-left: -200px;
-      letter-spacing: -6px;
-      font-size: 2vw;
+      margin-top: -100px;
+      margin-left: -100px;      font-size: 4vw;
     }
 }
