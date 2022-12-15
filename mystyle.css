@@ -4,12 +4,15 @@
               height: 100%; 
               width: 100%; 
           }
-  body{
-     font-family: 'Raleway', sans-serif;
-     padding: 3em 2em;
-     font-size: 18px;
-     color: #aaa
-  }
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+  padding: 3em 2em;
+  color: #aaa
+}
   
   html{
     margin-top: 0;
