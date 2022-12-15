@@ -4,6 +4,13 @@
               height: 100%; 
               width: 100%; 
           }
+  body{
+     font-family: 'Raleway', sans-serif;
+     padding: 3em 2em;
+     font-size: 18px;
+     background: #222;
+     color: #aaa
+  }
   
   html{
     margin-top: 0;
@@ -80,8 +87,8 @@
 }
       
   img {
-      max-width:50%;
-      max-height:50%;
+      max-width:40%;
+      max-height:40%;
       position:absolute;
       top:-50px; left:0; right:0; bottom:0;
       margin:auto;
