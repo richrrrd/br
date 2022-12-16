@@ -61,7 +61,7 @@ body {
 img {
    max-width:50%;
    max-height:50%;
-   position:float;
+   position:relative;
    margin:auto;
    padding-top: 5%;
 }
