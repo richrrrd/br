@@ -23,47 +23,39 @@ body {
   flex: 0 0 auto;
   height: 10%;
   background-color:;
+  align-items: center;
+  justify-content: center;
 }
 
-#content {
+#uppercontent {
   display: flex;
   flex: 1 1 auto;
-  height: 80%;
+  height: 70%;
   background-color:;
-  
-}
-
-#column-1 {
-  flex: 1;
-  background-color:;
-}
-
-#column-2 {
-  flex: 3;
-  background-color:;
-  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
   text-align:center;
 }
 
-#column-3 {
-  flex: 1;
+#lowercontent {
+  position: absolute;
+  z-index:10;
+  height: 1em;
   background-color:;
+  top:70%;
+  width:100%;
+  color:white;
+  text-align:center;
 }
 
 #footer {
-  /* style the footer element */
+  /* style the header element */
   display: flex;
   flex: 0 0 auto;
   height: 10%;
   background-color:;
-}
-
-img {
-   max-width:70%;
-   max-height:70%;
-   position:relative;
-   margin:auto;
-   padding-top: 50%;
+  align-items: center;
+  justify-content: center;
 }
 
 @keyframes gradient {
@@ -78,12 +70,12 @@ img {
     }
 }
 
- .wave {
+.wave {
     background: rgb(255 255 255 / 25%);
     border-radius: 1000% 1000% 0 0;
     position: fixed;
     width: 200%;
-    height: 6em;
+    height: 5em;
     animation: wave 10s -3s linear infinite;
     transform: translate3d(0, 0, 0);
     opacity: 0.8;
@@ -91,7 +83,7 @@ img {
     left: 0;
     z-index: 1;
 }
-  
+
 .wave:nth-of-type(2) {
     bottom: -1.25em;
     animation: wave 18s linear reverse infinite;
@@ -126,6 +118,12 @@ img {
     }
 }
 
+img {
+   max-height:50%;
+   position:relative;
+   margin:auto 0;
+}
+
 h1,h2 {
   font-weight: 200;
   margin: 0.4em 0;
@@ -141,6 +139,5 @@ h1,h2 {
   margin: -0.5em 0;
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
-  padding: 3em 2em;
   color: #efefef;
 }
